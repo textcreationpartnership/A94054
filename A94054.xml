@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Variety of choice experiments made of two incomparable medicines elixir febrifugium martis, and salt of lymons. : Shewing their vertues, use and operations : being the peculiar secrets and acquisitions of the author. / Moses Stringer ...</title>
+            <author>M. S. (Moses Stringer)</author>
+         </titleStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94054</idno><idno type="EEBO-CITATION">45789417</idno>
+  <idno type="VID">172727</idno>
+  <idno type="EEBO-PROQUEST">2240887497</idno>
+  
+            <idno type="STC">Wing S5975A</idno>
+            <idno type="STC">ESTC R187194</idno>
+            <idno type="OCLC">45789417</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172727)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Variety of choice experiments made of two incomparable medicines elixir febrifugium martis, and salt of lymons. : Shewing their vertues, use and operations : being the peculiar secrets and acquisitions of the author. / Moses Stringer ...</title>
+                  <author>M. S. (Moses Stringer)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wilkins, near Fleet street, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages are cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Patent medicines --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  History --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172727:1"/>
+            <pb facs="tcp:172727:1"/>
+            <p>Variety of Choice EXPERIMENTS Made of Two Incomparable MEDICINES: Elixir Frebrifugium Martis, AND SALT of LYMONS. Shewing their Vertues, Use and Op<g ref="char:EOLhyphen"/>erations: Being the Peculiar Secrets and Acquisitions of the Author.</p>
+            <p>
+               <hi>Moses Stringer, Chymist</hi> and <hi>Physitian</hi> at his <hi>Laboratory</hi> and <hi>Foundery,</hi> in <hi>Black-fryers</hi> near <hi>Ludgate:</hi>
+            </p>
+            <p>
+               <hi>Where are also prepared a great variety of</hi> Chymical <hi>Preparations, and all things that can be Cast in</hi> iron, <hi>or</hi> Bellmettal <hi>and</hi> Essays <hi>made of, and Money-given for all</hi> Mettalick Bodies, whatsoever.</p>
+            <p>LONDON, Printed by <hi>J. Wilkins,</hi> near <hi>Fleet street,</hi> for the AUTHOR, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172727:2"/>
+            <head>Variety of Choice Experiments, Made of Two incomparable MEDICINES, <hi>Mr Stringers,</hi> Elixir Febrifugium Martis, <hi>and his</hi> Salt of Lymons.</head>
+            <p>
+               <hi>ELIXIR Febrifugium Martis</hi> is a pleasant Medicine, that In<g ref="char:EOLhyphen"/>falibly cures the Plague, Pestilance and all Malignant <hi>Feavers,</hi> Biting of <hi>Vipers, Serpants, Rattle Snakes, Venereal Tinges,</hi> and all Inveterate and Deadly Poysons whatsoever, whose Malignant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erments it Allays, and extinguisheth in a Moment, and never failes to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nswer the end desired; as will appear in several examples hereunto an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>exed.</p>
+            <p>It also with great Ease, Speed and Safety, cures all confirm'd <hi>Rhuma<g ref="char:EOLhyphen"/>isms, Hictick, Quotidian, Putrid, Quartan, Tertian</hi> and <hi>Intermittent Feavers, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onsumptions, Cholicks, Griping of the Gutts,</hi> the <hi>Spleen</hi> and <hi>Vapours.</hi>
+            </p>
+            <p>This <hi>Elixir</hi> is brought into a Powder by <hi>Salt</hi> of <hi>Lymons;</hi> by which call it, and is a <hi>Cathartick Acid</hi> of excellent and Universal Use, in all Cases that require Purging. A Dose or two of it prevents <hi>Acute Feavers,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by expelling <hi>Filthy Slime</hi> and <hi>Congulating Humours</hi> out of their Stomach <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Bowels, secures the Patient against the return of those multifarious <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>istempers, and in all Chronical Diseases used as a Succedaneum to my <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lixir,</hi> totally eradicateing <hi>Hypocondrick</hi> and <hi>Scorhutick</hi> Effects, and both <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>estores and Preserves a Sanative Constitution.</p>
+            <p>These Medicines are the peculiar Secrets and Acquisitions of the Author <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c Stringer, Chymist</hi> and <hi>Physitian,</hi> Prepared by his own Hand, as is enjoynd <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hypocraties</hi> as a Duty upon all <hi>Physitians,</hi> and was diligently observed <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all Professors of <hi>Physick</hi> for many Centuries after him; tho now de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nerated into the <hi>Barbarous custom of Prescribing</hi> or making Medicines up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Peice of Paper, which they send to <hi>Apothecaries</hi> Shops, where the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of making up the <hi>Prescription</hi> and consequently the Patients Lives, are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sted to <hi>Apothecaries</hi> and their Boys.</p>
+            <pb n="3" facs="tcp:172727:2"/>
+            <p> But these Medicines here Offered to your consideration and Experience have been Studiously contrived, Revised, and so often Reformed and Me<g ref="char:EOLhyphen"/>liorated by diligent Observation, long use, and repeated Probations in divers eminent Cases, that they bear the nearest Affinity to <hi>Universal Me<g ref="char:EOLhyphen"/>dicines,</hi> being Generous, Amicable, and comprehensive expedients for the good of Mankind.</p>
+            <p>But to wave further Reasoning, Inveighing against Abuses, or compa<g ref="char:EOLhyphen"/>ring with others; I shall proceed to the matter of Fact, the greatest Testi<g ref="char:EOLhyphen"/>mony, Assurance, and Satisfaction that can be given of Medicines, by <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wing you what these Medicines have done, and what in all proba<g ref="char:EOLhyphen"/>bility they will constantly perform, if administred according to the Dire<g ref="char:EOLhyphen"/>ctions given at the end of this Paper-</p>
+            <p>This <hi>Elixer</hi> shew'd its excellency in relation to <hi>Poyson,</hi> upon one Mr <hi>Philipson,</hi> who was Bitt in the Finger by a <hi>Viper</hi> in <hi>Stocks-Market, March</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9th 1698. Many <hi>Physitions</hi> and <hi>Chirurgions</hi> had in vain attempted his Recovery, but their Medicines proving ineffectual, they left him in dread<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul <hi>Convulsions</hi> and <hi>Contorsions,</hi> with an Inflamation in his <hi>Bladder,</hi> ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream <hi>Swelling</hi> in all parts. His whole Body was Dyed as yellow as <hi>Saf<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> his <hi>Jaws</hi> fallen, and he lying, in all Appearance, like a Dead Man: In this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ismal condition they left him, and upon Annointing his Finger with the <hi>Elixir</hi> above named, the Pain ceased immediately, and I gave him a hun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red and fifty Drops of it Inwardly in a Poringer of Water; after repeat<g ref="char:EOLhyphen"/>ing it three several times, all the <hi>Deadly Symptoms</hi> disappeared, and within an Hours time he went Home perfectly Recover'd, and still continues in as good Health as ever he enjoyed.</p>
+            <p>Here were four things very remarkable. 1st The desperate condition of the Patient. 2d The expeditious performance of the Cure. 3d Done by a single Medicine (not variety of irksome Medicines) where all other usual Prescriptions failed, 4th at an inconsiderable charge; for had he paid for the Medicine, it would not have cost him above a Shilling; which by any other Medicine might deservedly have cost many Pounds. This Cure being so suddenly and Effectually perform'd, after several <hi>Physitians</hi> and <hi>Chirugeons</hi> had been Bafled in their Attemps upon him; it so happen'd that, when I had done the Work, and the Patient almost miraculous Recovery became the Discourse of the Town, some of those <hi>Physitians</hi> and <hi>Chirurgeons,</hi> that made themselves busy about him to no purpose, had the Confidence <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o claim the Honour of Curing him; which I finding redound to the Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce of my self and Medicine, I thought my self obliged to procure a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>estimonial from the Patient himself, which he truely gave me in the fol<g ref="char:EOLhyphen"/>lowing Words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Let this Satisfy all Men, that I being Poyson'd by the Bite of a</hi> Viper <hi>in</hi> Stocks-Market, <hi>on the</hi> 29th <hi>of</hi> March 1698, <hi>several</hi> Physitions, Chirurgeons <hi>and</hi> A<g ref="char:EOLhyphen"/>pothecaries <hi>attempted to Cure me, till they rendred me almost past-Recovery, by their unsuccesful applications; and I had no ease or any hope of Life, till I was c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ryed to Mr</hi> Stringers <hi>House in</hi> York-Buildings <hi>in the</hi> Strand, <hi>where by the <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of his</hi> Elixir <hi>only, I was Cured in an Hour's time; and to no other Person
+<pb n="4" facs="tcp:172727:3"/>whatsoever, but to Mr</hi> Stringer <hi>only (let who will pretend to it) must I (under God) ascribe the Benefit of my Recovery; to the Truth of which I have set my Hand this</hi> 16th <hi>Day of</hi> November, 1699.</p>
+                  <closer>
+                     <signed>
+                        <hi>Witness</hi> Robert Smith, David Jones.</signed>
+                  </closer>
+                  <closer>
+                     <signed>Thomas Philipson.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To this surprizing Experiment, give me leave to add the case of a Wo<g ref="char:EOLhyphen"/>man living in St <hi>Gyles's in the Fields,</hi> who was Poyson'd with <hi>Arsenick,</hi> and reduced to such a deplorable Condition, that she was given up for Dead by the <hi>Physitions</hi> and Spectators; but was immediatly recovered by twice fifty Drops of my <hi>Elixir,</hi> and continues in perfect Health to this Day: A Dog was Poison'd also with the same, for an Experiment and was as speedily Cured by the <hi>Elixir.</hi>
+            </p>
+            <p>It perfectly Eradicates all confirm'd <hi>Scurvies</hi> tho broken out into an <hi>Eli<g ref="char:EOLhyphen"/>phantiasis</hi> or <hi>Leprosy,</hi> and the whole Body be but one intire Scab or Scurf from Head to Foot, as it did in the Case of <hi>John Roberts</hi> of <hi>Ruthin, John Cooper</hi> and <hi>Jane Sample,</hi> who were perfect <hi>Lepers,</hi> and yet were re<g ref="char:EOLhyphen"/>stored to Health by the use of this Medicine only in a very short time.</p>
+            <p>
+               <hi>Elizabeth Byard,</hi> who had twenty five <hi>Pocky Ulccers</hi> upon her, was by an Order of <hi>Sessions,</hi> appointed to live in a Cabin in the Field, for fear of Infecting the Neighbourhood, but was by the use of these Medicines on<g ref="char:EOLhyphen"/>ly, porfectly Cured in a Months time, to the great Admiration of all that knew her.</p>
+            <p>I could give Hundreds of Examples of both Sexes, who have been Cured of the <hi>French Pox</hi> by these two Medicines in <hi>London,</hi> particularly an <hi>Irish Soldier</hi> who was Quartr'd in <hi>Westminster,</hi> and had been Flux'd three times by an able Practitioner, tho to no purpose in the World. He had fourteen Ulcers upon him, with all the other Attendants of that Distemper, and yet was Recovered by these Medicines in a short time without Confine<g ref="char:EOLhyphen"/>ment. In a <hi>Fresh Clap</hi> or <hi>Gonnorhea,</hi> if these Medicines be applyed imme<g ref="char:EOLhyphen"/>diately, they will check the spreading Malignity in a Moment, and per<g ref="char:EOLhyphen"/>fects the Cures, almost in as short a time as the Disease was procured.</p>
+            <p>They are of incomparable vertue against all kinds of <hi>Worms,</hi> whether in the Stomack or Bowels, in Young or Old. They break the Vermetick heap, Kill the gnawing Animals, and Eradicate those pestiferous Inmates in Slime, with great Ease and Safety, far beyond the use of <hi>Mercurial</hi> Me<g ref="char:EOLhyphen"/>dicines, which often produce dangerous Effects.</p>
+            <p>No Medicines equals them in the Cure of all kind of <hi>Feavers,</hi> to which they are so peculiarly adapted, that I never knew any Miscarryed that made use of them. A Lady's Woman in <hi>Chelsy</hi> in the heat of last Sum<g ref="char:EOLhyphen"/>mer was assaulted with a violent <hi>Feaver,</hi> which confin'd her to her Bed, and the Distemper was attended by ominous Prognosticks; yet by taking <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Drop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my <hi>Elixir</hi> in a Glass of White-Wine and Water, she found
+<pb n="5" facs="tcp:172727:3"/>ease; which being Three times repeated in an hour, her <hi>Thirst</hi> and <hi>Feaver</hi> were so abated that she rose, went down Stairs, and in two Hours time was perfectly well. The next Day she took a Dose of the Purging <hi>Salt of Lymons,</hi> and her <hi>Fever</hi> teturnd no more.</p>
+            <p>Madam <hi>P—st</hi> near <hi>Aldgate,</hi> languish'd about two Years under a Dr <hi>Consumption,</hi> and other Concommitant effects that brought her even to the Mouth of the Grave. She had the Advice of Sr <hi>Richard Blackmore, Chamherlin</hi> and others, but finding no help by their Prescriptions, she ap<g ref="char:EOLhyphen"/>ply'd her self to the use of my <hi>Elixir,</hi> took it in her Drinks and Broths, and by Purging twice a Week with <hi>Salt of Lymons,</hi> she recovered her Health in a little time, and still enjoys it.</p>
+            <p>Mr <hi>Dixson</hi> a Painter, hearing that a Neighbouring Ladies Daughter, was seised with a violent <hi>Feaver,</hi> and the <hi>Small Pox,</hi> and that her Reco<g ref="char:EOLhyphen"/>very was wholy despaird of; he Advised the Lady to give her Daughter some Drops of my <hi>Elixir,</hi> who finding some benefit by the first Dose, continued the use of them as directed, and in five Days time, the young Lady was freed from all the dangerous Symptoms of the <hi>Feaver</hi> and <hi>Small Pox,</hi> and being further advised to Purge after it with <hi>Salt of Lymons,</hi> to carry off the remaining Malignity, which too often leaves matter behind which produce new Diseases, she followed that Direction, and now en<g ref="char:EOLhyphen"/>joy's a sanative Constitution, after she was given up for Dead by her <hi>Physitions</hi> and Relations.</p>
+            <p>The same effect these Medicines had upon a <hi>Sope-Boylers</hi> Daughter in <hi>Golden-Lane, London,</hi> who perceiving the <hi>Small Pox</hi> were breaking out upon her, had recourse to these Medicines, and by taking them early, the <hi>Small Pox</hi> came out so plentifully and kindly, that she was never Sick all the time they remain'd upon her, and also went off without leaving any <hi>Pitt, Scarrs,</hi> or <hi>Marks</hi> behind them, and the same effects will the Me<g ref="char:EOLhyphen"/>dicines have upon any Patient, either Young or old, that takes them at the begining of the Disease. In one Summer I cured above fifty of the <hi>Small Pox</hi> at a Town called <hi>Wimswold</hi> in <hi>Leicestershire,</hi> only with the set two Medicines, and not one Dyed or was <hi>Pitted</hi> that took my Medicines, and not one Recovered that followed other Methods.</p>
+            <p>These Medicines have proved effectual in curing the <hi>Cholick, Vomitings, Jaundice</hi> and <hi>Fluxes</hi> under every denomination. As for example Mr <hi>Sympton</hi> in <hi>Wapping,</hi> was so violently afflicted with the <hi>Cbolick,</hi> or rather the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liaca Passio,</hi> that the intolerable Pain and Gripings, made him cry out like a Man upon a <hi>Rack,</hi> almost bended him Double, and the frequent returns of this Distemper, had reduced him to such a State of inactivity, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncapble of his Acquaintance, advised him to take my <hi>Elix<g ref="char:EOLhyphen"/>ir,</hi> which at the third Dose took away all his Pains, set him upright and then Purging with the <hi>Salt of Lymons</hi> to remove the Cause, it so hap<g ref="char:EOLhyphen"/>pily effected his Cure, that he never complain'd of any Indisposition since; tho it be now a bove two Years since he Recovered. For common <hi>Fluxed,</hi> and <hi>Grippings,</hi> it gives ease immediatly, as was experinced in the Recove<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:172727:4"/>of many Soldiers that came out of <hi>Ireland,</hi> and brought the Distem<g ref="char:EOLhyphen"/>per of that Country with them.</p>
+            <p>A near Neighbour of mine in <hi>Black-Fryers,</hi> was troubled with <hi>Spitting Blood</hi> to so great a Degree, that the Learned were of opinion, he had broken a <hi>Vessel</hi> in his <hi>Lungs,</hi> and besides this misfortune, had been long Seised with a <hi>Hectick Feaver;</hi> but bvtaking sixty Drops of my <hi>Elixir</hi> in Cla<g ref="char:EOLhyphen"/>ret and Water, it stopt his Bleeding. Next Day he took a Dose of <hi>Salt of Lymons</hi> which confirm'd his Cure; for he says that ever Evening he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound himself much Stronger, and in a few Days after, he perfectly Re<g ref="char:EOLhyphen"/>cover'd.</p>
+            <p>
+               <hi>B. P.</hi> Master of a Ship living at <hi>Black-Wall</hi> was feised with the <hi>Yel<g ref="char:EOLhyphen"/>low Jaundice,</hi> and notwithstanding all endeavours were employed to Cure him, yet the Distemper continued so long upon him that he was unable to walk, and sensibly declined every day more and more, inso<g ref="char:EOLhyphen"/>much that he refused to take any more Medicines as disparing of Recovery, but being over perswaded by Captain <hi>Longworth,</hi> who had experienced those Medicines to take my <hi>Elixir,</hi> he took Fifty drops of it, twice a Day for a Fortnight without Intermission, which perfectly recover'd him. Not long after he went to Sea, and took a great quantity of both the Medicines with him, which kept both himself and his Ships Company in perfect Health, when a contageous Distemper reign'd at <hi>Barbados</hi> whither he was Bound.</p>
+            <p>Nor have these Medicines been less effectual in curing the <hi>Stone</hi> and <hi>Gravel</hi> in the <hi>Reines</hi> and <hi>Bladder,</hi> in which they give speedy Ease at any time, and by frequent use disolve the <hi>Stone</hi> and brings away the <hi>Gravel</hi> to Admiration. An aged Alderman of <hi>Liverpool,</hi> came up to <hi>London</hi> with a resolution to be Cut of the <hi>Stone,</hi> but being brought to me by the Honourable R. K. I advised him first to try my Medicines, before he under went that dangerous Operation: He consented, and took the <hi>Elixir</hi> and <hi>Salt</hi> of <hi>Lymons</hi> four days together, and received so much Ease in that short, and assurance of more by the further use of them, that he quitted his Resolution of being <hi>Cut,</hi> and return'd home again in a good State of Health.</p>
+            <p>I always Advise the Use of both the Medicines one after the other, tho the Patient sometimes thinks there is no cause for it, but as soon as the Feaver or malignity of the Distemper is abated they give over the thoughts of any further Process, but that is a dangerous errours, <hi>for the efect will not cease till the Cause is removed;</hi> and that is the Office of the <hi>Salt</hi> of <hi>Lymons,</hi> which evacuates gently by Stool without disturbing or debilitating Nature, but Gently and Deliberately sending forth all <hi>Fa<g ref="char:EOLhyphen"/>culent</hi> degenerate or corrupted matter, <hi>Radically</hi> cleansing and purifying the Body from <hi>Flegmatick, Viscous, Acrid</hi> or <hi>Corroding Humors</hi> drawing out the breeding or feeding matter of al Diseases, as the best Preven<g ref="char:EOLhyphen"/>tative and Curative means, by keeping the Body sweet, clean, and wholesome, without the help of Noysome Jssues.</p>
+            <p>They both also operate by <hi>Urine,</hi> purging the <hi>Reins</hi> and <hi>Urinary Ductures,</hi>
+               <pb n="7" facs="tcp:172727:4"/>sending forth <hi>Gravel, Sand,</hi> or <hi>Slimy</hi> obstructing <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee passage and Current for Emission of <hi>Serofity.</hi> They a the most effectual Aperitives against all Obstructions (the great complaint of all Diseased Persons) some in one part, some in another, <hi>Lungs, Liver, Spleen, Me<g ref="char:EOLhyphen"/>sentery, Guts, &amp;c.</hi> From hence multitudes of Diseases take their begin<g ref="char:EOLhyphen"/>ning. <hi>Obstructions</hi> cause pain, <hi>Pain</hi> raiseth a <hi>Feaver,</hi> and sometimes begets a Tumor, Internal and not perceived, or becomes Schirrous and In<g ref="char:EOLhyphen"/>durate. All this while our Prescribers upon Paper are Iuleping, Cly<g ref="char:EOLhyphen"/>stering, and Bleeding the Patient to allay the <hi>Fever;</hi> but the Stubborn <hi>Fever</hi> will not yeild to their Insipped draughts of pretended Pearl Cor<g ref="char:EOLhyphen"/>dials, nor the various forms of the <hi>Jesuits Bark;</hi> whereas this <hi>Elixir</hi> quenches the Heat of <hi>Feavers</hi> in a moment, more effectually than a whole Tun of Slip Slop Juleps, which Ignorant process has sent many thou<g ref="char:EOLhyphen"/>sands to their Graves. This is practising by <hi>Rote</hi> as <hi>Parrots</hi> Talk, and following <hi>Custom</hi> without <hi>Reason</hi> or the indegetations of Nature; Where<g ref="char:EOLhyphen"/>as as my Medicines operate by their own Innate vertue, and Correspondence with Nature, and therefore can find out a Disease when the Physition <hi>Sees it not, nor knows what to aime at;</hi> and assists the Stomack in perform<g ref="char:EOLhyphen"/>ing the beneficial Offices of Digestion, by disburthening it from Superflu<g ref="char:EOLhyphen"/>ous, indigested matter, that Blunts and Decaies the Appetite, and is the Original of Many Diseases.</p>
+            <p>One <hi>Taylor</hi> a Marriner, Brother to <hi>Sam.</hi> that lived at <hi>Jonathans Coffee<g ref="char:EOLhyphen"/>house</hi> in <hi>Exchange-alley,</hi> had been a Voyage to <hi>East-India,</hi> in which all the Ships Company Dyed except himself, and the Ship was brought home by fresh Hands. At his return his Stomach was distended, and stood out in a Lump as big as a Loaf, his whole Mass of <hi>Blood</hi> was corrupted, his Countenance Pale and <hi>Livid,</hi> and in the whole was a very frightful Figure: He advised with many Physitians of the greatest Reputation, who concluded he was Poysond by some <hi>Lingring Venom,</hi> in which the <hi>Indians</hi> are great Artists, but could give him no releif. At length he came to me, and I gave him first a double dose of <hi>Salt</hi> of <hi>Lymons</hi> and con<g ref="char:EOLhyphen"/>tinued that course four Days together, only Lessening the quantity every Day from the first, and also gave him Sixty drops of the <hi>Elixir,</hi> every <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at Bed time in hot Wine, which had such a good effect upon him that in ten Days he was perfectly recover'd, and not long after went to Sea again in a Voyage to the same Country.</p>
+            <p>No Medicine equals them in assisting Nature in the office of <hi>Expe<g ref="char:EOLhyphen"/>ctoretion,</hi> and consequently is beneficial in all Diseases of the <hi>Breast</hi> and <hi>Lange,</hi> and dischargeth the peccant Humour by the help it gives to Na<g ref="char:EOLhyphen"/>ture. It digests touch Flegm, opens the Pipes of the Lungs, cures <hi>Cough<g ref="char:EOLhyphen"/>ing. Wheezings</hi> and shortness of <hi>Breath,</hi> is good for such as are <hi>Ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ysical</hi> or <hi>Astmatick</hi> and promotes <hi>Transpiration</hi> by removing the Impediments that hinder nature in that necessary operation. Mr. <hi>Hodges</hi> an Ingeneir at the <hi>Tower,</hi> had such a Stoppage and obstruction in his Lungs, occa<g ref="char:EOLhyphen"/>sioned by those corosive fumes as he Fired the Works in St. <hi>James's</hi> at the Celebration of the Peace, that he was almost Suffocated, and
+<pb facs="tcp:172727:5"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Breath. Above two Months he continued <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on with a violent <hi>Cough</hi> and continued incured <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> least motion in walking, threw up great quantities of <hi>Fleg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Quitter</hi> streak'd with <hi>Green</hi> and other Colours, which was <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> noysome to See, but worse to Smell. At two Months end <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> undertook him, and gave him the <hi>Elixir</hi> and <hi>Salt</hi> of <hi>Ly<g ref="char:EOLhyphen"/>mons</hi> successively in hot Claret, and in less than a Month restor'd him to his former Health, and now I am inform'd he is gon to be an Ingeneir to the State of <hi>Venice.</hi>
+            </p>
+            <p>Mr. <hi>William Pay</hi> of <hi>Empshot</hi> in <hi>Hampshire,</hi> was violently afflicted with an <hi>Astma,</hi> insomuch that he could not lie down upon a Bed, or Couch, for many Months together; but in the Coldest Weather was forc'd to sit up or kneel in a Chair, for if he lay never so little backward he was quite Choked, and not brought to life again but with great difficulty. This course at last rendred him also extreamly <hi>Hydropical,</hi> and the unhap<g ref="char:EOLhyphen"/>py conjunction of these two distempers, made him utterly despair of be<g ref="char:EOLhyphen"/>ing recoverd; but by taking my <hi>Elixir</hi> in Wine and Water, and the <hi>Salt</hi> of <hi>Lymons</hi> in hot Wine, his Health was restored. I think he had but an Ounce of each Medicine, and so was cur'd at the charge of a Crown, of both those troublesom and dangerous diseases, and has continued in Health above these two Years. Another person that has a place in the <hi>Tower,</hi> whose name I have no Authority to mention, was severely af<g ref="char:EOLhyphen"/>flicted with an <hi>Astma,</hi> insomuch that by computing the time, in twen<g ref="char:EOLhyphen"/>ty three years time he had not been three years in a Bed, but Winter and Summer was obliged to pass away the Night in a Chair, sometimes Sitting, and at others Kneeling and oftentimes was forc'd to set open all his Doors and windows to give himself Breath. At length he was perswaded to make use of my Medicines, and by taking two or three doses of <hi>Salt</hi> of <hi>Lymons</hi> in Water and Sugar, and the <hi>Elixir</hi> in White Wine, he was able to lye upon his Pack and Sleep six hours together. Others I could name that had Phtysicks alone, and Phtysicks complicated with Dropsies and Fluxes that have received their Cures from the use of these Medicines, as Mr. <hi>Page</hi> a Porter at the <hi>Knight Marshals Office</hi> in his Majestys Palace at <hi>Kinsington,</hi> Aged 70 years, and Mrs <hi>Jordan</hi> a Gold<g ref="char:EOLhyphen"/>smiths Wise in <hi>New street</hi> in <hi>Fetter lane;</hi> but I fear to be too tedious.</p>
+            <p>They are also very efficacious in Curing <hi>Deasness,</hi> and many have re<g ref="char:EOLhyphen"/>ceived benefit by the use of these Medicines, when all other celebrated <hi>Nostrums</hi> and the manual operations of skilful. Artists have been rendred unsuccessful, as I could prove at large by many Instances, which I small now omit, but to tell you of one that happend very lately. My Father who lives at <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughborrough</hi> in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eicestershire</hi> had been Deal for many Months, and by reason of his Age was in no expectations of be<g ref="char:EOLhyphen"/>ing Cured; but having some few drops of my <hi>Elixir</hi> b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him, and knowing is had done good to others in the like case, was resolv'd to try the experiment, and causing Five or Six drops of my <hi>Elixir</hi> to be dropt into his Ears, at twice using it, his Hearing was intirely restored.</p>
+            <pb facs="tcp:172727:5"/>
+            <p> Mr. <hi>Higgs Junior</hi> of <hi>Harborough</hi> in <hi>Leicester-shire Anno</hi> 1700. was seised with a violent <hi>Rheumatism</hi> in his <hi>Knee,</hi> which in Twelve Hours time took away the use of his Limb, and made him Lame, but anoint<g ref="char:EOLhyphen"/>ing the part affected with my <hi>Elixir,</hi> it perfectly cured him in a quarter of an Hour, and enabled him to walk without pain or trouble.</p>
+            <p>Mr. <hi>Oliver Cromwel</hi> making, me a visit the other day with a <hi>Turkey</hi> Mer<g ref="char:EOLhyphen"/>chant, he was pleas'd to tell me, that a Friend of his had been torment<g ref="char:EOLhyphen"/>ed with a violent pain in his Head, Three Days and Nights successively without intermission, and finding no help from his Physitions Mr. <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> perswaded him to anoint the Coronal Sutors (or open of his Head) with my <hi>Elixir,</hi> which he said perfectly cured his Friend, in less time than he was acquainting me with it.</p>
+            <p>
+               <hi>May</hi> 1700. A Goldsmiths Daughter in the <hi>Borough</hi> of <hi>Southwark</hi> about 7 or 8 years Old, was dreadfully handled with <hi>Convulsions,</hi> accompanied with strange <hi>Contorsions,</hi> dismal <hi>Shreikings, Foaming</hi> at the Mouth, with other concomitant passions that sometimes, attend that Distemper; so that many were of opinion she was <hi>Bewitch'd,</hi> or as the Vulgar phrase it, <hi>Under an Ill Tongue,</hi> many Remedies Internal and External were employ<g ref="char:EOLhyphen"/>ed to releive her, but proving ineffectual, confirm'd some in the opinion there was Fascination in the Case; but they were soon confuted by giv<g ref="char:EOLhyphen"/>ing her about Thirty drops of my <hi>Elixir,</hi> which immediately vanquished all the ill Symptoms, and restor'd her to Health, and gave the Childs Father such a good opinion of the Medicines, that he made use of no other Remedy to cure himself of a Rheumatism, and has successfully re<g ref="char:EOLhyphen"/>commended them to others, that were afflicted with the same Distemper.</p>
+            <p>One example more I cannot omit for its Notoriety, and that was of a young Gentlewoman under the Princes Chambers, near the House of Lords, about 22 years of Age who by a fall in the Street, being almost at her time, <hi>Miscarried;</hi> and being unskilltully treated by her Midwife, was reduced in Six Months time to such a degree of Weakness, that her con<g ref="char:EOLhyphen"/>dition was deplorable, she was not able to turn her self in her Bed, and all her Friends and Relations were under sad apprehensions of losing her; but she being at last recommended to my Gare. I gave her Five Doses of my <hi>Elixir,</hi> and purg'd her thrice with <hi>Salt</hi> of <hi>Lymons,</hi> which brought away the rotten peices and putrid Clodded Matter, which the <hi>Elixir</hi> had prepared for expulsion; and so effectually cleans'd and heald the parts affected, that in three Weeks time she went abroad, and so continues in perfect Health, who before was scarce out of her B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in three Months, and the Sinews of her Hams very much contracted.</p>
+            <p>Having thus breisly shew'd you the vertue of these Medicines in re<g ref="char:EOLhyphen"/>lation to some <hi>internal</hi> Distempers, for to name all I have good authority were to swell this <hi>Advertisement</hi> into a large Volumn: I shall next Pro<g ref="char:EOLhyphen"/>ceed with the like brevity, to acquaint you with their Vertues in rela<g ref="char:EOLhyphen"/>tion to <hi>External</hi> Maladies, in which they are no less prevalent than in the former.</p>
+            <p>I begin with <hi>Pustules</hi> or an extraordinary <hi>Redness</hi> in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Face, which
+<pb n="10" facs="tcp:172727:6"/>the it often happens to <hi>Great Drinkers;</hi> yet is as often a disease in Tem<g ref="char:EOLhyphen"/>porate and Sober Persons, proceeding from a <hi>Crassis</hi> in the <hi>Blood,</hi> and want of a good <hi>Digestion;</hi> both which may be easily cured by these Me<g ref="char:EOLhyphen"/>dicines, without trouble, Eyes or Eyefore or danger. A Reverend Person of remarkable <hi>Sobirety</hi> and <hi>Abstinence,</hi> thinking a <hi>Red Face</hi> was a <hi>Scandal</hi> to his Profession, consulted a Physitian in <hi>London,</hi> of no mean Charracter about the Cure of it, who after a few delatory Essaies, to lengthen the time and augment the number of his Visits, prescrib'd him a <hi>Mercurial Wash,</hi> which rather enflamed than mittigated the <hi>Redness,</hi> and began to Ulcerate the <hi>Pastules,</hi> which put the Patient into a Fright, for Suffer<g ref="char:EOLhyphen"/>ing his Curiosity <hi>To make the Cure worse than the Disease:</hi> Whereupon ad<g ref="char:EOLhyphen"/>vising with me, I orderd the Patient to take a Dose of the <hi>Salt</hi> of <hi>Lymons</hi> twice a Week in Fountain Water with a little Sugar, and to touch the <hi>Pimples</hi> and <hi>Pustules</hi> every Night at Bed time with the <hi>Elixir.</hi> To this Course I added the holding about the quantity of a grain of Corn of the <hi>Salt</hi> of <hi>Lymons</hi> in his Mouth, which drained the <hi>Glands</hi> of the <hi>Vis<g ref="char:EOLhyphen"/>cous Juice</hi> that caus'd the Inflamation, and by following this method Fifteen Days, the <hi>Pimples</hi> and <hi>Redness</hi> disappeard, and a new <hi>Cutis</hi> coverd his Face without any sign of <hi>Redness,</hi> and so continues.</p>
+            <p>The same effect the <hi>Elixir</hi> has upon other Inflamations, and never failes to Cure an <hi>Erisipelas,</hi> St <hi>Anthonies Fire,</hi> the <hi>Shingles, Ring-worms, Tetters</hi> and scald Head, or any such like diseases in the Skin. <hi>Old Ulcers, Scabed</hi> and <hi>Runing Sores</hi> are commonly the Scandal of <hi>Chirurgeons,</hi> and rarely submit to a perfect Cure, but if heald up in one place break out in another; but this <hi>Elixir</hi> never faild of curing any old <hi>Sore</hi> or <hi>Ulcer,</hi> tho of Twenty Years standing; and if the Patient purges throughly with <hi>Salt</hi> of <hi>Lymons,</hi> after the <hi>Elixir</hi> has dryed up and skin'd the Sore, it will never break out again. This puts me in mind of an extraordinary Case; A poor Man in <hi>Long-Whatton</hi> in <hi>Leicestershire,</hi> who about 6 year, since had <hi>Worms</hi> bread in his Legs, in which he had seldom less than twenty Holes at a time, so wide that one might have turn'd his Finger in any one of them, and as one <hi>Worm</hi> dyed, the Hole heald up, whilst others bred in fresh Places of his Leg. In this sad condition he continued a long time, all Men pittying him, but none were found that could Cure him; till by dropping some few drops of my <hi>Elixir</hi> once a day into the <hi>Ulcers,</hi> and then in a short time he was perfectly recover'd.</p>
+            <p>They also never fail curing of any kind of <hi>Burns</hi> or <hi>Scalds,</hi> the part being anointed with the <hi>Elixir,</hi> and the Body kept Cool and Open by purging with the <hi>Salt</hi> of <hi>Lymons,</hi> to prevent a defluction of humors in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part affected. My <hi>Iron Founder</hi> powring a Ladle full of melted <hi>Iron</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <hi>Furnace</hi> into the Mould, by a mischance let it fall into his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hooes which being pulld off, and my self being present, I anointed his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet with my <hi>Elixir,</hi> which immediately took out the Fire, and his Pain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tterly vanish'd in the space of five Minutes or less, if it were possible to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e exact in so greate a Nicety. The next day another instance happen'd in the same kind upon another of my Mens Leg, by a flaming Ladle, who
+<pb n="11" facs="tcp:172727:6"/>was cured by the same method, and in a shorter time than the former The Men are both now living with me in <hi>Black-Fryers.</hi> Mr <hi>Lionel Richardsons</hi> Wife, was Lame with the continued returns of a <hi>Rheu<g ref="char:EOLhyphen"/>matism,</hi> which caused Knobs to grow upon her Hands, Fingers and other Joints, and other excessive Pains in all her Limbs. I order'd her to take the <hi>Salt of Lymons</hi> twice a Week in Syrup of <hi>Elder Berries,</hi> and the <hi>Elixer</hi> in common Drink all Day, but at Night to take it in hot <hi>White-Wine</hi> Which course she followed for six Weekes, to her great Satisfaction; tho I think her case was rather the <hi>Gout</hi> than a <hi>Rheumatism;</hi> but call it what you will, these Medicines freed her from all <hi>Arthritick</hi> Pains, and restor'd her to Health.</p>
+            <p>A Servant Maid living with a Gentleman belonging to the <hi>Bank of Eng<g ref="char:EOLhyphen"/>land,</hi> had lost the Sence of Smelling for twenty Years; but by Sauffing up some of the <hi>Salt of Lymons</hi> into each <hi>Nostril,</hi> at her going to Bed, and taking a Dose of the <hi>Elixir,</hi> was so releived, that the next Morning she was strangly surprized at the various Smells with which she was accosted, that she neither knew how to demean her self, or express them; and for this and many other reasons, in cleansing the Head and Brains, I recom<g ref="char:EOLhyphen"/>mend it as the best <hi>Sneezing Powder</hi> that can be used.</p>
+            <p>
+               <hi>Ann Clew's</hi> a Felmongers Wife, at <hi>Namptwich</hi> in <hi>Cheshire,</hi> as she was Undresing her Child on the 4th of <hi>April,</hi> was struck with a <hi>Paralitick</hi> Di<g ref="char:EOLhyphen"/>stemper, which took away her <hi>Speech,</hi> and deprived the extream parts of Sence and Motion. in this deplorable Estate she continued till the 7th of <hi>May,</hi> at which time I orderd her to be Anointed with my <hi>Elixir,</hi> from the Mould of her Head to the bottom of the Back Bone, and both the Palms of her Hands, and the Soules of her Feet; to Purge with <hi>Salt of Lymons,</hi> and to take <hi>Elixir</hi> inwardly in all her Drinks, and Broths, which being ob<g ref="char:EOLhyphen"/>served according to Direction, she recoverd her <hi>Speech</hi> in 48 Hours, and in a Fortnighr after was restor'd to the use of her Limbs. Another In<g ref="char:EOLhyphen"/>stance in the <hi>Palsey,</hi> was upon one Mr. <hi>Bridgman</hi> an antient Man, living within <hi>Cripple-Gate, London,</hi> who had lost the use of his right Hand and Arm, and had no Sence of Feeling in it. To him I prescribed the same course as to the Patient next before named, and it had the same effect; but much sooner, for he was perfectly recoverd in less than two Da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>These Medicines are good Remedies for Weakness, and pains in the Back, Loins, Genitalls occasion'd by Spermatick wastings in both Sexes, by cleansing and Purifying the viciated Parts that oppress Nature, which be<g ref="char:EOLhyphen"/>ing removed, assist her in gaining Strength and Vigor. Those that are molested with <hi>Venereal Diseases,</hi> ought to esteem these Medicines as pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous Jewels. First because they enable every Man to be his own <hi>Physitian,</hi> and secondly in respect of <hi>Privacy,</hi> for they hinder no Man from follow<g ref="char:EOLhyphen"/>ing his Business, at Home or Abroad, without the nearest Relations per<g ref="char:EOLhyphen"/>ceiving they are taking <hi>Physick,</hi> if they are able to keep their own Counsel.</p>
+            <p>Such as are a coustom'd at certain Seasons of the Year, to take <hi>Preventi<g ref="char:EOLhyphen"/>tive Physick,</hi> to keep their Bodies Clean and Wholsome, if they please to take these Medicines, may lay aside their use of <hi>Dyet Drinks, Pills,</hi>
+               <pb facs="tcp:172727:7"/>and <hi>Potions,</hi> for nothing is so fit, nor will more effectually answer that Intention, since they operate so calmly and pleasantly, that the weakest Persons, Women with Child, or the youngest Children, may take them with Benefit, for by continual Proofes of their Vertues, more Stress may be laid upon them in these Cases, than upon any two Medicines in the World.</p>
+            <p>An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther great Conveniency in these Medicines, is, that they are Porta<g ref="char:EOLhyphen"/>ble, and may be always carryed about a Man, with as little trouble as a <hi>Watch,</hi> or a <hi>Snush Box,</hi> and so are commodious for Travellors upon a Jour<g ref="char:EOLhyphen"/>ney, without hazarding their Lives among strange <hi>Physitians</hi> and stranger M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dicines. Riding hard, and long Journeys, especially among G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntlemen and Citizens, that are not us'd to that Fatigue, often throw Men into <hi>Fe<g ref="char:EOLhyphen"/>vers,</hi> and with a little unskilful Handling into their Graves, which may be prevented by carrying these Medicines in your Pocket, which drive a<g ref="char:EOLhyphen"/>way a <hi>Fever</hi> in a few Hours and also enables the Traveller to pursue his Journy chearfully, as you will see b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an by.</p>
+            <p>Nothing is more wanting in <hi>Fleets</hi> at Sea, in <hi>Armies</hi> on Land, and in <hi>Hospitalls</hi> than these Medicines; for they will dexterously act the part of the skilfulest <hi>Chirurgeon,</hi> in such Parts where neither his Eye can discern, nor his Hand come to help the Patient, and will do all the work them selves, by drawing off and evacuating all offending and feeding Humors, which in <hi>Wounds, Contusions, Apostems</hi> and <hi>Sores</hi> keep them from Healing. Sir <hi>P. T.</hi> Knight, riding Post two Daies, and Nights, threw himself into such a violent <hi>Feaver,</hi> that he was scarce able to sit his Horse; but calling to mind, he had a Bottle of my <hi>Elixir</hi> in his Pocket, he allighted at a Spring and fill'd the <hi>Tin Box</hi> he kept the <hi>Elixir,</hi> in which Water he dropt fifty Drops in of the <hi>Elixir</hi> into it and repeating the same Dose, five Miles further in his Stage, his <hi>Feaver</hi> vanish'd, he found himself very Lightsome, and finish'd this Journy with great ease and Satisfaction.</p>
+            <p>Besides the <hi>Catharthick</hi> quality the <hi>Salt</hi> of <hi>Lymons</hi> is endowed with, it is an excell<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>Dentrifice:</hi> If you do but touch an Akeing Tooth with this <hi>Salt</hi> it often takes away the Pain: It Rotten, Black, or Stinking, it makes them Clean, White, and Sweet, only by rubbing the Teeth every <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther night with it, and Cures the Scurvy in the Gums by putting the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of a grain of Corn of it into the Mouth, which will immediate<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be full <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Water, with which gargle your Mouth, forcing it strongly <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rough your Teeth, and it will preserve both Teeth and Gums to a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very old Age.</p>
+            <p>The <hi>Elixir</hi> is no less effectual in curing Corns in your Feet, or Toes <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or Hands whether they be hard or soft, upon or between your Toes. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Corn be hard anoint it with the <hi>Elixir</hi> every Night and Morning, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it will molify the part, kill the Corn, and reduce the skin and flesh to a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gular Temper; but if it be a soft Corn betwixt the Toes, you must <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>et a lit le Cotton or Wooll in the <hi>Elixir,</hi> apply i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the place, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a few dressings, it will Cure it without Pain or Trouble, and A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds</hi> with it, makes them Soft as a Ladys, and Cures chopt <hi>Hands</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Lips.</hi>
+            </p>
+            <pb n="13" facs="tcp:172727:7"/>
+            <p> In <hi>Feavers,</hi> the <hi>Elixir</hi> is to be taken from Forty to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of White Wine and Water. Fifty Drops is the use <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may be augmented or abated, according to the quantity <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or the greatness of the Patients Thirst. Repeat this D<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hours till the Feaver is abated, and the Patients Thirst gone. <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> two Days together with the <hi>Salt</hi> of <hi>Lymons,</hi> and the Fever <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no more. To a Child you may give from twenty to thirty Drops, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> same manner and order.</p>
+            <p>In Poysons coming from the Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of a <hi>Serpent, Viper,</hi> or other Ve<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mous Creature, as a mad<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>og <hi>&amp;c.</hi> you must often anoint the part Bitten with the <hi>Elixir,</hi> take it inwardly as in Fevers, and purge twice or thrice after it.</p>
+            <p>If the Poyson come from taking <hi>Arsnick<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or other poysonous <hi>Drugs,</hi> or <hi>Mineral,</hi> you must only tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inwardly as directed in Feavers; in good Wine but if any part of the Lody swell, you must anoint it with the <hi>Elixir</hi> also, and purge very well after it with the <hi>Salt</hi> of <hi>Lymons.</hi>
+            </p>
+            <p>In <hi>Venereal Cases,</hi> if the <hi>Clap</hi> be newly taken, drink the <hi>Elixir</hi> plenti<g ref="char:EOLhyphen"/>fully in Wine and Water. Let the Patients, if they find cause for it, wash the parts more particular affected, with four parts Water and one <hi>Elixir,</hi> and if there be occasion to make use of <hi>Injections,</hi> doe it with the same mixture, and you will find ease suddenly; but when all the Ill <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mptoms are abated, dont forget to purge well after it, for fear any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>egs of the distemper should remain behind, and return with greater malignity and Danger. But if the <hi>Pox</hi> be old and attended with <hi>Shankers, Nodes, Bubo</hi>'s <hi>&amp;c.</hi> then the <hi>Elixir</hi> must be taken constantly in all their common drink, and the <hi>Salt</hi> of <hi>Lymons</hi> must be taken three times a Week, for a month together, nay tho the Symptoms abate sooner yet the Pati<g ref="char:EOLhyphen"/>ent must continue his course without intermission; for it is a harder mat<g ref="char:EOLhyphen"/>ter to dislodge one old <hi>Pox,</hi> than to cure ten new Claps, and therefore the greater care must be taken.</p>
+            <p>In <hi>Pleurisies,</hi> inward Pains, Wounds and Bruises, drink it in good hot Claret; and the same course observe in the <hi>Yellow Jaundice</hi> and <hi>Dropsies,</hi> with the addition of old Hock and Rhenish.</p>
+            <p>In <hi>Rheumatisms, Fits</hi> of the <hi>Gout, Arthritick Distempers, Hypocondriack affects, Convulsions,</hi> and <hi>Vapours,</hi> drink 50 or 60 drops at a time in White Wine and Water, and it will quickly Thin and change the whole Serum of the Blood, and render the whole Mass agreeable.</p>
+            <p>In <hi>Consumptions, Hectick Feavers,</hi> and <hi>Inveterate Ptysicks,</hi> it must be used in all the Drinks and Liquids which the Patient takes, but especial<g ref="char:EOLhyphen"/>ly in old Hock and White Wine, which will throw off the Tough Slimes vvhich obstruct and inflame the Lungs and Bowells.</p>
+            <p>The <hi>Salt</hi> of <hi>Lymons</hi> may be taken early in the Morning, in half a Pint of Water and Sugar, or in White Wine and Water, Mingle the same quantity: Or, hot Ale or Wine, or in any other convenient Vehicle, that best agrees with the Patients, Pallit, and the nature of the Distemper. For a Man or Woman the Dose is two Drachms; but to Children half a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>achm, you must not omit Sugar with it in all ages and sexes.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="14" facs="tcp:172727:8"/>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>August</hi> the 5th 1700</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of my Friend, with your Medicines (who have <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fit by them) that I am pulled to Peices, by Daily <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er Friends. Pray therefore, now, or at your Leasure, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>es of the <hi>Elixir,</hi> and 6 Ounces of the <hi>Salt,</hi> and some <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of Direction: my Brother is almost set on his Leggs of his <hi>Rhewmetisim,</hi> and Mrs. <hi>Pratt</hi> is much better, since yesterday, all send their Service, which you are assured of from your faithful Servant,</p>
+                  <closer>
+                     <signed>
+                        <hi>Talbot Clerk,</hi> Beronet.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To Dr <hi>Sstringer,</hi> at his House in <hi>Black-fryers.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Am glad to hear, after spending so much time in Examing the Curi<g ref="char:EOLhyphen"/>osities of Nature, in Mettalls, and Mineralls; you are at last setled <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <hi>London,</hi> where your Friends and Patients may have recourse to you, for your Advice, and the use of your Medicines, which did so much good <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n our Parts while you staid among us. You may please to remember when I was brought to you at <hi>Buckston,</hi> I had lost the use of my Legs, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd for six Months could not move or stir, without the assistance of Crutches. Some of my <hi>Phisitians</hi> call'd it the <hi>Gout,</hi> other gave it names that I don't pretend to understand, tis well if they did; for I received no other Benefit from any of them, but to be tired out with the continual use of nauseous Medicines, and emptying my Pockets. You were pleas'd to call it a <hi>Rheumatism,</hi> and plyed me about a Fortnight with the continu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l use of your <hi>Elixir Martis,</hi> Inward and Outwardly, and somtimes Purg'd me with your <hi>Salt of Ly<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ons,</hi> which by Gods Blesing had such a good Effect upon me, that I was perfectly restored to the use of my Legs, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd in three Weekes able to Run a whole day a Hunting; and I thank God have continued in Health ever since.</p>
+                  <p>Now Sr a Gentleman in our Neighbour-hood, having been seized in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he same manner that I was, and I beleive with the same Distemper, has <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ften importun'd me to find you out, and procure some of your Medicines, which I have long made my Business, but could not hear of you till now; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd therefore have dispatch'd this Messinger (the Gentleman's Servant) on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urpose to you, for ten Bottles of your <hi>Elixir</hi> and five Boxes of your <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>alt of Lymons,</hi> for which you will receive Money of the Bearer, and if the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edicines Succeed, as I question not but they will, for I am sure his Distemper is the same that mine was, you will find a grateful Patient of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Gentleman, and much oblige Sir,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Boslome</hi> in <hi>Staffordshire,</hi>
+                        <date>
+                           <hi>October</hi> the 29th 1700.</date>
+                     </dateline>
+                     <signed>Your humble Servant <hi>Aron Shawrs.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>MY old Distemper the <hi>Dropsy,</hi> that you Cured me of above three Years ago; by a cursed habit of Intemperance is again return'd,
+<pb n="15" facs="tcp:172727:8"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd my Legs and whole Body are Swell'd, like the poor English at <hi>Am<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oyna,</hi> under the cruel Punishment of a <hi>Duch Water Rack.</hi> Besides this Malady our Country Doctors say I am attackt by a Damn'd hard Word they call a <hi>Cachexia,</hi> which if in continuing the Seige it turns into the <hi>Yel<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow-Jaundice,</hi> I must surrender the Garrison to the <hi>Worms,</hi> and make a Step in the Dark, that I am but very ill provided for. If upon this con<g ref="char:EOLhyphen"/>sideration, and the Money I have sent to pay for them, you please to send <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e a <hi>Reprieve</hi> from this Sentance of our Country Doctors, in three Bottles <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your <hi>Elixir Martis;</hi> if I live, I will drink every Year a Score of our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ountry Milksop young Gentlemen into the same condition, and send <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem to you to be Cured out of pure Gratitude for my own Recovery. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> remember the <hi>Dropsy</hi> seis'd me in <hi>London</hi> by drinking of <hi>Claret,</hi> and you Cured me by ordering me to take your <hi>Elixir</hi> constantly in the same Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uor, so I had my Cure, and yet was indulged in my <hi>Dear Debauchery,</hi> which was a double kindness, and will be return'd so by all Men of my Complexion, who are Extreamly fond of their Vices, and only desire <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ealth that they may enjoy them with a better Gusto. Now Sr since the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eace, and our being reduced to Half Pay, we cannot reach that noble Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uor <hi>Red,</hi> but are force to take up with a Decoction of <hi>Barley,</hi> under the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es of <hi>Stout</hi> and <hi>Three Threds,</hi> and glad we can purchase that: Threfore <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> would fain know, if I may not take your <hi>Elixir</hi> in those Country Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uors, as I formerly did in <hi>Claret,</hi> when Fighting was in Fashion; for I <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n of Opinion the Medicine is most effectual, when the Vehicle is pleasant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Approved. You see Sr what an ill Predicament I am in, that am <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> most Dead with Drinking, and yet to save my Life canot abstain from <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at wretched swinish custome of Gusling. Good Sr do what you can to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure my Body, and if Recover, I will endeavour to mend my Life, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e thankful to God, and Doctor <hi>Stringer</hi> for it, in quality of his.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Nottingham,</hi>
+                        <date>
+                           <hi>November</hi> 12th 1700.</date>
+                     </dateline>
+                     <signed>Humble Servant <hi>E. Prior.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To Mr <hi>Stringer,</hi> at his <hi>Refinerys</hi> in the <hi>High Peak</hi> in <hi>Derbyshire.</hi>
+                  </head>
+                  <opener>
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>VVHen you Resided at <hi>Glocester-Hall</hi> in <hi>Oxford,</hi> I had the Honour to be instructed by you in the Noble Study of <hi>Chimistry</hi> and can <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ly lament my Misfortune in being snatch'd away from the <hi>University,</hi> be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e I arrived to a greater Proficiency in so useful and excellent a Science: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owever I had the advantage of seeing the good Effects of your <hi>Elixir <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>artis</hi> and <hi>Salt of Lymons</hi> in many nice Cases, where Men of Figure were <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ccesful; coming to <hi>London</hi> not long since, I was seised with a violent <hi>
+                        <gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>er,</hi> and a concatination of other Distempers, too long to be mention'd <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re. I had the Advice of several <hi>Physitians</hi> without any success, at last <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thinking my self of your Medicines, I procured them from a Place in <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>wn where they are Sold; but had not the Happiness to find you. I con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ued in taking your <hi>Elixir,</hi> three times a Day in <hi>White-Whine</hi> and <hi>Wa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> for the space of a Week; then I Purg'd twice with your <hi>Salt of Ly<g ref="char:EOLhyphen"/>mons,</hi>
+                     <pb n="16" facs="tcp:172727:9"/>which quite took away my <hi>Fever;</hi> and all its dreadful Symtoms I took another Bottle of your <hi>Elixir,</hi> by which I am restored to as good state of Health, as ever I enjoyed in my whole Life: Now hearing where you Resided in the <hi>Peak</hi> I thought fit to give you notice of this great Cure; and also desire you to send me a Quantity of both your Medicines to keepe by me, for my owne use, and wherewith I may be somtimes Helpful to my Neighbours, and in so doing you will oblige Sir,</p>
+                  <closer>
+                     <dateline>From Dr <hi>Knipes</hi> at <hi>Westminster-Schooll,</hi>
+                        <date>
+                           <hi>May</hi> the 2d 1697.</date>
+                     </dateline>
+                     <signed>Your very humble Servant <hi>John Flower,</hi> Usher</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Port Royal, Jamaica, October <hi>the 29th 1699.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IN my last I gave you an Account, by the <hi>Richard and Sarah,</hi> that Dr <hi>Treadway</hi> and other <hi>Physitians,</hi> had made Tryal of your <hi>Elixir Febrifugi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m Martis,</hi> and have found it very effectual in Removing all kinds of <hi>Fe<g ref="char:EOLhyphen"/>vers</hi> in a little time; and that then I had Sold but few of your Medicines, because it was not commonly known among the People; but now some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aving made use of them with good Success, they have communicated their Vertues to the rest of the Inhabitants, and it is much enquir'd for, and goes off at five Shillings a Bottle. It is found by Experence to be a great Preserver of their <hi>Negroes</hi> from <hi>Malignant Fevers,</hi> which they are very Subject to; and therefore I desire you to send by the next Return a good quantity, both of your <hi>Elixir</hi> and <hi>Salt of Lymons;</hi> for you need not fear the Sale of them at a good Price, for they are now grown into great Reputation, by the Experience that is daily made of them, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>Yours to Comand, <hi>Robert Bevios</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To Mr <hi>Kittridge,</hi> in the <hi>Temple.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>YOU may remember when I was last in <hi>London,</hi> you had me to the House of one Mr <hi>Moses Stringer;</hi> I had some Drops called <hi>Elixir Martis</hi> of him against my <hi>Aschma;</hi> I have found agreat deal of good by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, but I hear he is removed from the house where he did live, so that I know not how to send to him: I desire the kindness of you, if you know where Mr <hi>Stringer</hi> lives, to give me an Account of the Place and Sign he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s living at, that I may know how to send to him for some more of his <hi>Elixir Martis;</hi> I desire your speedy Answer, so I rest</p>
+                  <closer>
+                     <dateline>
+                        <hi>Empshot,</hi>
+                        <date>
+                           <hi>September</hi> 21st 1700.</date>
+                     </dateline>
+                     <signed>Your Friend, <hi>William Pay.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The <hi>Elixir</hi> is Sold at half a Crown a Bottle each, both containing a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ounce, The <hi>Salt of Lymons</hi> at three Shillings an Ounce, or twelve Penc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Box, each Box being a Dose, or two Drams, and may be had at my House and <hi>Labortory</hi> in <hi>Black-Fryers,</hi> at Mrs <hi>Harris</hi>'s, near the <hi>Horn-Taver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Westminster,</hi> at <hi>Young-Mans Coffee-House</hi> near <hi>Charing-Cross,</hi> Mr <hi>Gravener</hi> Stationer over against <hi>Leaden-Hall</hi> in <hi>Leaden-hall-street, Joseph Raven</hi> Bookseller in <hi>Lincols-Inn.</hi>
+            </p>
+            <p>And those that please to sell, or export <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem may have an a batement of 15 <hi>l. pr Cent.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
